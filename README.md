@@ -1,6 +1,7 @@
 Olá Dev Tudo Bem? 👋 👨‍💻   
 Me chamo Rian Erick, Atualmente Dart / Flutter
 
+Tenho Experiência Intermediária Com Java , Spring Boot, JPA, MySQL , Dar , Flutter Entre Outras Tecnologias 
 
 //- 💬 Email Para Contato > rianzx34@gmail.com
  <div align="center">
