@@ -1,5 +1,6 @@
 Olá Dev Tudo Bem? 👋 👨‍💻   
-Me chamo Rian Erick, Atualmente Estudando Java - Back End.
+Me chamo Rian Erick, Atualmente Dart / Flutter
+
 
 //- 💬 Email Para Contato > rianzx34@gmail.com
  <div align="center">
