@@ -1,21 +1,29 @@
-Olá Dev Tudo Bem? 👋 👨‍💻   
-Me chamo Rian Erick, Atualmente Dart / Flutter
+<h1 align="center">Olá 👋😃 Sou: Rian Erick</h1>
+<h3 align="center">Desenvolvedor Flutter Em Aprendizado</h3>
 
-Tenho Experiência Intermediária Com Java , Spring Boot, JPA, MySQL , Dar , Flutter Entre Outras Tecnologias 
+<p align="left"> <img src="https: //komarev.com/ghpvc/?username=rianerick&label=Profile%20views&color=0e75b6&style=flat" alt="rianerick" /> </p>
 
-//- 💬 Email Para Contato > rianzx34@gmail.com
- <div align="center">
-       <a href="https://github.com/rianerick">
-           <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rianerick&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-                  <div align="center">
-                        <a href="https://www.linkedin.com/in/rianerick/">
-                                     <img height="140em" src= "https://cdn.pixabay.com/photo/2017/12/06/04/57/linkedin-3000959_1280.png"/ >
-                                        <div align="center">  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianerick&theme=dracula"/>
-                                        </div>
-                                           <div align="center">
-                                                  <a href="https://www.instagram.com/riancody_/">
-                             <img height="140em" src= "https://cdn.pixabay.com/photo/2020/11/15/06/18/instagram-logo-5744708_1280.png"/ > 
-                         </div>
+- 🌱 Atualmente estou aprendendo **CURSEI O EJP ESCOLA JOVENS PROGAMADORES - JAVA* *
+
+- LinkedIn [https://www.linkedin.com/in/rianerick/](https://www.linkedin.com/in/rianerick/)
+
+- INSTAGRAM **@riansvan**
+
+- 📫 Como me encontrar * *rianzx34@gmail.com**
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rianerick" target="blank"><img align="center" src="https://raw .githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rianerick" height="30" width="40" /></a>
+<a href="https://instagram.com/riansvan" target="blank"><img align="center" src="https:/ /raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riansvan" height="30" width="40" /></ a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rianerick&show_icons=true&locale=en&layout=compact" alt="rianerick" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rianerick&show_icons=true&locale=en" alt="rianerick" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rianerick&" alt="rianerick" /></p>
+
+
   
 
 
