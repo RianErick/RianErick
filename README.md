@@ -1,29 +1,39 @@
-<h1 align="center">Olá, sou Rian Erick Silva</h1>
-<h3 align="center">Desenvolvedor Dart / Flutter</h3>
+<h2 align="center">Olá, Sou Rian Erick Dev Flutter Mobile</h2>
 
-<p align="left"> <img src="https:/ /komarev.com/ghpvc/?username=rianerick&label=Profile%20views&color=0e75b6&style=flat" alt="rianerick" /> </p>
+###
 
-<p align="left"> <a href="https://github. com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rianerick" alt="rianerick" /></a> </ p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=RianE" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=RianE" height="150" alt="languages graph"  />
+</div>
 
-- 🌱 Atualmente estou aprendendo **EJP - JAVA**
+###
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/RianErick/RianErick](https://github.com/RianErick/RianErick)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" width="42" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" width="42" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" width="42" alt="heroku logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" width="42" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="42" alt="spring logo"  />
+</div>
 
-- 📫 Como me encontrar **rianzx34@gmail.com**
+###
 
-- ⚡ Curiosidade **Sou Curioso Para Aprender**
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/rianerick/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<h3 align="left">Conecte-se comigo:</h3>
-< p align="esquerda">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rianerick" target="blank"><img align="center" src="https://raw .githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rianerick" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/riansvann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www .instagram.com/riansvann/" height="30" width="40" /></a>
-</p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rianerick&show_icons=true&locale=en&layout=compact" alt="rianerick" /></p>
+<br clear="both">
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rianerick&show_icons=true&locale=en" alt="rianerick" /></p>
+<img href="https://raw.githubusercontent.com/RianE/RianE/blob/output/snake.svg" alt="Snake animation" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rianerick&" alt="rianerick" /></p>
+###
 
 
 
