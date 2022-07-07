@@ -1,4 +1,4 @@
-<h2 align="left">Olá sou Rian , Desenvolvedor Futter Jr</h2>
+<h2 align="left">Olá sou Rian , Desenvolvedor Flutter Jr</h2>
 
 ###
 
