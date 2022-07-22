@@ -19,7 +19,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/RianErick/RianErick/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/RianErick/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
