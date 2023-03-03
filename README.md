@@ -30,7 +30,6 @@
   <img src="https://www.flywaydb.org/assets/logo/flyway-logo-tm.png" alt="Flyway" width="100" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
-  <img src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" alt="Postman" width="100" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50"/>
 </p>
 
