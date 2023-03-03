@@ -1,19 +1,47 @@
 
+<h1 align="center">Seu nome</h1>
 
-<h2 align="center">Desenvolvedor em Desenvolvimento :)</h2>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rianerick&label=Profile%20views&color=0e75b6&style=flat" alt="rianerick" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rianerick/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/rianerick" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@rianerick9075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@rianerick9075/featured" height="30" width="40" /></a>
+<p align="center">
+  <samp>Desenvolvedor(a) de software | Java | Spring Boot </samp>
+  <br>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <samp>
+    📍 Localização: Caucaia, CE,  <br>
+    📧 Email: rianzx34@gmail.com <br>
+    💼 LinkedIn: <a href="https://www.linkedin.com/in/RianErick/">seulinkedin</a> <br>
+  </samp>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rianerick&show_icons=true&locale=en&layout=compact" alt="rianerick" /></p>
+<h2 align="center">Sobre mim</h2>
+
+<p align="center">
+  Sou um(a) desenvolvedor(a) de software apaixonado(a) por criar soluções inovadoras e eficientes para problemas complexos. Tenho experiência em desenvolvimento de software utilizando Java, Spring Boot
+</p>
+
+
+<h2 align="center">Tecnologias</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
+  <img src="https://www.flywaydb.org/assets/logo/flyway-logo-tm.png" alt="Flyway" width="100" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+  <img src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" alt="Postman" width="100" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50"/>
+</p>
+
+<h2 align="center">Linguagens de programação</h2>
+
+<p align="center">
+  <a href="https://github.com/seuusuario">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=8&theme=dark"/>
+  </a>
+</p>
+
 
 
 
