@@ -10,7 +10,7 @@
   <samp>
     📍 Localização: Caucaia, CE,  <br>
     📧 Email: rianzx34@gmail.com <br>
-    💼 LinkedIn: <a href="https://www.linkedin.com/in/RianErick/">seulinkedin</a> <br>
+    💼 LinkedIn: <a href="https://www.linkedin.com/in/RianErick/">Rian Erick</a> <br>
   </samp>
 </p>
 
@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://github.com/RianErick">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=8&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianErick&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </p>
 
