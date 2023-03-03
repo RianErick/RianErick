@@ -1,5 +1,5 @@
 
-<h1 align="center">Seu nome</h1>
+<h1 align="center">Rian Erick Silva</h1>
 
 <p align="center">
   <samp>Desenvolvedor(a) de software | Java | Spring Boot </samp>
@@ -37,7 +37,7 @@
 <h2 align="center">Linguagens de programação</h2>
 
 <p align="center">
-  <a href="https://github.com/seuusuario">
+  <a href="https://github.com/RianErick">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </p>
