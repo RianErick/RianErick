@@ -17,7 +17,7 @@
 <h2 align="center">Sobre mim</h2>
 
 <p align="center">
-  Sou um(a) desenvolvedor de software apaixonado por tecnologia , Tenho experiência em desenvolvimento de software utilizando Java, Spring Boot
+  Sou um desenvolvedor de software apaixonado por tecnologia , Tenho experiência em desenvolvimento de software utilizando Java, Spring Boot
 </p>
 
 
