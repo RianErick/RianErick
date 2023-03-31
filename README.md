@@ -1,6 +1,3 @@
-# Meu Projeto Java
-
-Este é um projeto em Java que utiliza várias ferramentas para desenvolvimento de software. Aqui estão algumas das tecnologias utilizadas:
 
 ## Ferramentas
 
