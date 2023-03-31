@@ -1,11 +1,13 @@
-
-
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
+    <title>Meu Projeto Java</title>
   </head>
   <body>
+    <h1>Meu Projeto Java</h1>
+
+    <p>Este é um projeto em Java que utiliza várias ferramentas para desenvolvimento de software. Aqui estão algumas das tecnologias utilizadas:</p>
 
     <h2>Ferramentas</h2>
     <ul>
@@ -21,6 +23,7 @@
       <li>JavaScript</li>
     </ul>
 
+    <h2>Imagens</h2>
 
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
       <img src="https://i.imgur.com/abc123.png" alt="IntelliJ IDEA" style="width: 100px; margin: 10px;">
@@ -42,8 +45,6 @@
     </ol>
   </body>
 </html>
-
-
 
 
 
