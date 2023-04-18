@@ -1,4 +1,4 @@
-# 💫 Sobre Min :
+# 💫 Sobre Mim :
 Olá! Meu nome é Rian Erick , e sou um programador backend com foco em Java Spring Boot. Com mais de 1 ano de experiência em desenvolvimento de software, tenho um conhecimento imtermediario em Java, Spring Boot e outras tecnologias relacionadas.
 
 
