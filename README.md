@@ -2,7 +2,7 @@
 Olá! Meu nome é Rian Erick , e sou um programador backend com foco em Java Spring Boot. Com mais de 1 ano de experiência em desenvolvimento de software, tenho um conhecimento imtermediario em Java, Spring Boot e outras tecnologias relacionadas.
 
 
-## 🌐 Socials:
+## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rianerick) 
 
 # 💻 Stacks:
