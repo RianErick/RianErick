@@ -5,7 +5,7 @@
 
 
 
-<h3 align="left">Estudando :</h3>
+<h3 align="left">Learning :</h3>
 
 <p>
   <a href="https://golang.org" target="_blank" rel="noreferrer">
