@@ -1,4 +1,4 @@
-# Hi guys, welcome to my gh profile ❤
+# Hi guys, welcome to my gh profile
 
 <p align="flex-end"> 
   <a href="https://skillicons.dev">
