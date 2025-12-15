@@ -2,6 +2,6 @@
 
 <p align="flex-end"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,linux,angular,hibernate,postman,docker"/></br>
+    <img src="https://skillicons.dev/icons?i=java,postgres,linux,docker"/></br>
   </a>
 </p>
