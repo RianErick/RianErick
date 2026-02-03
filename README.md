@@ -6,7 +6,7 @@
   <h3>☕ Olá, eu sou o Rian!</h3>
   <p>
     <b>Desenvolvedor Java</b> apaixonado por construir sistemas escaláveis, resilientes e de alta performance.<br>
-    Foco em Microsserviços, Containerização e Boas Práticas de Engenharia de Software.
+    Containerização e Boas Práticas de Engenharia de Software.
   </p>
 </div>
 
