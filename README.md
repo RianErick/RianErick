@@ -1,8 +1,4 @@
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,docker,redis,maven,git,idea,linux&perline=6" />
-</div>
-
 ### ⚡ Atividade de Contribuição (Snake Game)
 <div align="center">
   <img src="https://github.com/RianErick/RianErick/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
