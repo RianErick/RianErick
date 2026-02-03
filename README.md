@@ -44,10 +44,10 @@ Como dev, minha caixa de ferramentas vai além do código básico. Aqui está o 
 <div align="center">
   <p><i>"Write once, run anywhere."</i> ☕</p>
   
-  <a href="https://linkedin.com/in/seu-linkedin-aqui" target="_blank">
+  <a href="https://linkedin.com/in/RianErick" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:rianzx34@@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
