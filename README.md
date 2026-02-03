@@ -5,7 +5,7 @@
 <div align="center">
   <h3>☕ Olá, eu sou o Rian!</h3>
   <p>
-    <b>Desenvolvedor Java Pleno</b> apaixonado por construir sistemas escaláveis, resilientes e de alta performance.<br>
+    <b>Desenvolvedor Java</b> apaixonado por construir sistemas escaláveis, resilientes e de alta performance.<br>
     Foco em Microsserviços, Containerização e Boas Práticas de Engenharia de Software.
   </p>
 </div>
@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
-Como dev pleno, minha caixa de ferramentas vai além do código básico. Aqui está o que utilizo para criar soluções robustas:
+Como dev, minha caixa de ferramentas vai além do código básico. Aqui está o que utilizo para criar soluções robustas:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,docker,kubernetes,kafka,redis,maven,git,idea,linux&perline=6" />
