@@ -1,37 +1,53 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+o+Rian+Erick!;Dev+apaixonado+por+c%C3%B3digo;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F54D26&center=true&vCenter=true&width=435&lines=Backend+Developer+Java;Spring+Boot+%7C+Docker+%7C+PostgreSQL;Arquitetura+%26+Clean+Code;Code+Builder+@+RianErick" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3> 🚀 Sobre Mim </h3>
-  Explore meus projetos e veja minhas contribuições ganharem vida abaixo!
+  <h3>☕ Olá, eu sou o Rian!</h3>
+  <p>
+    <b>Desenvolvedor Java Pleno</b> apaixonado por construir sistemas escaláveis, resilientes e de alta performance.<br>
+    Foco em Microsserviços, Containerização e Boas Práticas de Engenharia de Software.
+  </p>
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Ferramentas
+Como dev pleno, minha caixa de ferramentas vai além do código básico. Aqui está o que utilizo para criar soluções robustas:
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,react,python,docker&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,docker,kubernetes,kafka,redis,maven,git,idea,linux&perline=6" />
 </div>
 
-<br/>
+> **Core:** Java 17/21, Spring Boot, Spring Cloud, JPA/Hibernate.
+> <br>**Dados:** PostgreSQL, Redis (Cache), RabbitMQ.
+> <br>**DevOps:** Docker, CI/CD, Kubernetes (Noções).
 
-### 🐍 Minhas Contribuições (Snake Game)
+---
+
+### ⚡ Atividade de Contribuição (Snake Game)
 <div align="center">
   <img src="https://github.com/RianErick/RianErick/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br/>
 
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RianErick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianErick&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RianErick&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianErick&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" alt="languages graph" />
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://github.com/RianErick">
-    <img src="https://img.shields.io/github/followers/RianErick?label=Follow&style=social" alt="Follow RianErick" />
+  <p><i>"Write once, run anywhere."</i> ☕</p>
+  
+  <a href="https://linkedin.com/in/seu-linkedin-aqui" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
