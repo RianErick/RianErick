@@ -32,15 +32,6 @@ Como dev, minha caixa de ferramentas vai além do código básico. Aqui está o 
 
 <br/>
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RianErick&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianErick&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>
-
----
-
 <div align="center">
   <p><i>"Write once, run anywhere."</i> ☕</p>
   
